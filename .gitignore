@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+.angular/cache/
+out-tsc/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Env
+.env
+.env.*
+
+# Logs / system / editors
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Databases
+*.sqlite
+*.db
+/BD/
